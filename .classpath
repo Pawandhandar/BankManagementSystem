@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/Hibernate Latest Version Jar Files/Hibernate Latest Version Jar Files/txw2-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Pictures/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
